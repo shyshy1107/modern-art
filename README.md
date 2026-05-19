@@ -5,7 +5,7 @@
 ## 快速开始
 
 ```bash
-git clone <repo-url>
+git clone [<repo-url>](https://github.com/shyshy1107/modern-art)
 cd modern-art
 npm install
 npm start        # 或双击 start.bat
